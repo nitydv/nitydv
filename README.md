@@ -110,7 +110,7 @@
 
 <h2>📊 GitHub Stats & Analytics</h2>
 
-<!-- <div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nitydv&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=818cf8" alt="Nithesh's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nitydv&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" alt="Top Languages" />
 </div>
@@ -119,7 +119,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nitydv&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak Stats" />
-</div> -->
+</div>
 
 <br />
 
